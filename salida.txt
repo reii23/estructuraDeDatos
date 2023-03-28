@@ -1,0 +1,3 @@
+La cantidad total de elementos: 20
+Los elementos divisibles por 3 son: 906 195 291 627 822 135 333 9 
+Los elementos no divisibles por 3 son: 979 367 968 413 805 896 659 43 710 854 428 823 

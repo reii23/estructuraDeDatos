@@ -1,3 +1,6 @@
+// programa que realiza una potencia. recibe un entero a y un entero b y eleva el a la cantidad de veces que 
+// indique b //
+
 #include <stdio.h>
 
 int main() {
