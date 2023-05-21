@@ -33,10 +33,6 @@
     "**/.vscode",
     "**/.vscode/**"
   ],
-  "files.associations": {
-    "stdio.h": "c",
-    "stdlib.h": "c",
-    "tdalistaenlazada.h": "c"
-  },
-  "C_Cpp_Runner.useAddressSanitizer": false
+  "C_Cpp_Runner.useAddressSanitizer": false,
+  "C_Cpp_Runner.showCompilationTime": false
 }

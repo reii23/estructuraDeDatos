@@ -1,4 +1,4 @@
-// prograsma que recibe un largo n y valores en base al largo del arreglo para crear un arreglo, por pantalla se entrega el //
+// programa que recibe un largo n y valores en base al largo del arreglo para crear un arreglo, por pantalla se entrega el //
 // elemento mayor, el elemento menor y el promedio entre todos los elementos del arreglo //
 
 #include <stdio.h>

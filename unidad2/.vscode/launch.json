@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Usach/1-2023/EDA",
-      "program": "c:/Usach/1-2023/EDA/build/Debug/outDebug",
+      "cwd": "c:/Usach/1-2023/EDA/unidad2",
+      "program": "c:/Usach/1-2023/EDA/unidad2/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
