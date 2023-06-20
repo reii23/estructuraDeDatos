@@ -6,7 +6,7 @@
 
 int main(int argc,  char *argv[]) {
 
-/*	Ejemplo de Soluciï¿½n de S8: Crear grafo desde archivo */
+/*	Ejemplo de Solución de S8: Crear grafo desde archivo */
 		
 	// Paso a)
 	int i, num_vertices, v, w;
@@ -24,7 +24,6 @@ int main(int argc,  char *argv[]) {
 	// Paso c)
 	while (fscanf(fp, "%i %i", &v, &w ) == 2){
 	  agregar_arista(g,v, w);
-	  agregar_arista(g,w,v);
 	}
 	
 	// Paso d)

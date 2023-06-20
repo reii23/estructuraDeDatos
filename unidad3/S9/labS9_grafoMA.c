@@ -6,7 +6,7 @@
 
 int main(int argc,  char *argv[]) {
 
-/*	Ejemplo de Solución : Crear grafo desde archivo */
+/*	Ejemplo de Soluciï¿½n : Crear grafo desde archivo */
 		
 	FILE*pf;		   //para abrir archivo
 	pf = fopen(argv[1],"r");
